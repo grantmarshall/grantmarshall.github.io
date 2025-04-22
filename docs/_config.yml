@@ -21,7 +21,7 @@
 title: Grant Marshall
 email: gandrewmarshall@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Personal site for the software engineer Grant Marshall
+  Personal site for Grant Marshall
 domain: grantmarshall.github.io
 url: "https://grantmarshall.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
